@@ -1,0 +1,2 @@
+char[][]
+kolla rader(n,n++), kolla kolumner(n++,n), kolla diagonal(n
